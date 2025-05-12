@@ -1,4 +1,4 @@
-# OLED Animations With an Arduino/ESP Using Arduino Core
+# OLED Animations With an Arduino/ESP
 ## Examples
 ![Demo](https://raw.githubusercontent.com/Pen5w5gu/Lazy_Animation_ESP32/master/demo/demo.gif)
 
