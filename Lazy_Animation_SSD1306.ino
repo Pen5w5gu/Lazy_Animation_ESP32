@@ -29,6 +29,7 @@ unsigned long sleepDuration = 0;
 
 void setup() {
   Serial.begin(115200);
+  //       (SCL,SDA) of Display
   Wire.begin(3, 4);
 
   if(!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {
