@@ -16,7 +16,7 @@
 |SCL  				  | Any GPIO (I'm using pins 4)          |
 
 ### Setup Arduino Arduino/IDE and upload code
-1.  Open Arduino IDE
+1.  Run file Lazy_Animation_SSD1306.ino
 2.  Install the required libraries (in Arduino IDE):
     - Adafruit GFX Library
     - Adafruit SSD1306 Library
